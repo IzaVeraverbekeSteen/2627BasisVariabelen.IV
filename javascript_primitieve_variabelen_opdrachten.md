@@ -86,7 +86,3 @@ Met deze 20 eenvoudige opdrachten kun je oefenen met het aanmaken, aanpassen en 
 
 ---
 
-## 7. Geavanceerd Primitief Type (Symbol)
-
-20. **Unieke id maken:**
-    Maak een variabele `id1 = Symbol("id")` en `id2 = Symbol("id")`. Vergelijk of `id1 === id2` en print het resultaat (zie waarom elk `Symbol` uniek is).
