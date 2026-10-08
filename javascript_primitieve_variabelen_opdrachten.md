@@ -1,14 +1,14 @@
 # Praktijkopdrachten: JavaScript Primitieve Variabelen
 
 Met deze 20 eenvoudige opdrachten kun je oefenen met het aanmaken, aanpassen en controleren van primitieve variabelen in JavaScript (`string`, `number`, `boolean`, `null`, `undefined`, en `symbol`).
-
+test
 ---
 
 ## 1. String (Tekst)
 
 1. **Naam samenvoegen:**
    Maak twee variabelen aan: `voornaam` met jouw voornaam en `achternaam` met jouw achternaam. Voeg ze samen in een variabele `volledigeNaam` en print deze naar de console.
-
+   
 2. **Template literals:**
    Gebruik template literals (backticks `` ` ``) om de volgende zin te maken:  
    `"Hallo, mijn naam is [volledigeNaam] en ik leer JavaScript."`
